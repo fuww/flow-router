@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'kadira:flow-router-ssr',
-  summary: 'Same as kadira:flow-router, but with SSR support',
-  version: '3.13.0',
-  git: 'https://github.com/kadirahq/flow-router.git'
+  name: 'fuww:flow-router-ssr',
+  summary: 'Same as fuww:flow-router, but with SSR support',
+  version: '3.13.0_6',
+  git: 'https://github.com/fuww/flow-router.git'
 });
 
 Package.onUse(function(api) {
