@@ -1,7 +1,7 @@
 Package.describe({
   name: 'fuww:flow-router-ssr',
   summary: 'Same as fuww:flow-router, but with SSR support',
-  version: '3.13.0_6',
+  version: '3.13.0_7',
   git: 'https://github.com/fuww/flow-router.git'
 });
 
